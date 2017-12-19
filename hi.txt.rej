@@ -1,0 +1,7 @@
+diff a/hi.txt b/hi.txt	(rejected hunks)
+@@ -1 +0,2 @@
+-Hello Man!!!
+\ No newline at end of file
++Hello Man!!!
++This is changed by BD!!!
+\ No newline at end of file
